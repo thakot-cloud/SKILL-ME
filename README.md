@@ -24,6 +24,10 @@
 
 อ่าน [คู่มือติดตั้ง](INSTALL.md) สำหรับการติดตั้งครบทุกสกิลบน Windows, macOS หรือ Linux รวมถึงวิธีติดตั้งเพียงสกิลเดียวและการอัปเดตภายหลัง
 
+## คู่มือประกอบ
+
+- [Local AI + Hermes + GPT-6 Privacy Guide](guides/local-ai-gpt6-privacy-guide/README.md) — แนวทางออกแบบ workflow แบบ local-first, masking และ explicit cloud approval
+
 ## โครงสร้าง
 
 สกิลแต่ละรายการอยู่ในรูปแบบ:
